@@ -6,6 +6,12 @@
 
 ## Быстрый старт
 
+### Клонирование репозитория
+```bash
+git clone https://github.com/your-username/lavender-punch-calculator.git
+cd lavender-punch-calculator
+```
+
 ### Установка зависимостей
 ```bash
 pip install Pillow
