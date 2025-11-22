@@ -8,7 +8,7 @@
 
 ### Клонирование репозитория
 ```bash
-git clone [https://github.com/your-username/lavender-punch-calculator.git](https://github.com/VictoriaKalion/lavender-punch-calculator)
+git clone https://github.com/VictoriaKalion/lavender-punch-calculator
 cd lavender-punch-calculator
 ```
 
